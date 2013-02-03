@@ -1,4 +1,4 @@
-playground
+Playground
 ==========
 
 Learning and experiment stuff
