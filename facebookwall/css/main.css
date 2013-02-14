@@ -43,3 +43,15 @@
 .col3 img { max-width: 280px; }
 .col4 img { max-width: 380px; }
 .col5 img { max-width: 480px; }
+
+.box .count {
+	background-color: #777;
+	color: #fff;
+    border-radius: 4px 4px 4px 4px;
+    font-size: 10px;
+    padding: 2px 4px;
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    text-align: center;
+}
