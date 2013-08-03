@@ -1,0 +1,742 @@
+[
+    {
+        "value": "AC Milan - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/153/ac-milan",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_153.png"
+    },
+    {
+        "value": "ADO La Haye - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/1333/ado-la-haye",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1333.png"
+    },
+    {
+        "value": "AS Roma - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/145/as-roma",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_145.png"
+    },
+    {
+        "value": "AZ Alkmaar - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/170/az-alkmaar",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_170.png"
+    },
+    {
+        "value": "Academica Coimbra - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/197/academica-coimbra",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_197.png"
+    },
+    {
+        "value": "Ajaccio - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/253/ajaccio",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_253.png"
+    },
+    {
+        "value": "Ajax Amsterdam - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/163/ajax-amsterdam",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_163.png"
+    },
+    {
+        "value": "Anderlecht - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/105/anderlecht",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_105.png"
+    },
+    {
+        "value": "Arouca - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/3041/arouca",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_3041.png"
+    },
+    {
+        "value": "Arsenal - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/77/arsenal",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_77.png"
+    },
+    {
+        "value": "Aston Villa - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/78/aston-villa",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_78.png"
+    },
+    {
+        "value": "Atalanta Bergame - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/1138/atalanta-bergame",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1138.png"
+    },
+    {
+        "value": "Athletic Bilbao - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/126/athletic-bilbao",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_126.png"
+    },
+    {
+        "value": "Atlético Madrid - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/127/atletico-madrid",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_127.png"
+    },
+    {
+        "value": "Augsburg - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/2637/augsburg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2637.png"
+    },
+    {
+        "value": "Bastia - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/241/bastia",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_241.png"
+    },
+    {
+        "value": "Bayer Leverkusen - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/60/bayer-leverkusen",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_60.png"
+    },
+    {
+        "value": "Bayern Munich - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/61/bayern-munich",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_61.png"
+    },
+    {
+        "value": "Belenenses - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/307/belenenses",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_307.png"
+    },
+    {
+        "value": "Benfica - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/182/benfica",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_182.png"
+    },
+    {
+        "value": "Betis Séville - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/135/betis-seville",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_135.png"
+    },
+    {
+        "value": "Bologne - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/147/bologne",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_147.png"
+    },
+    {
+        "value": "Bordeaux - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/252/bordeaux",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_252.png"
+    },
+    {
+        "value": "Borussia Dortmund - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/59/borussia-dortmund",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_59.png"
+    },
+    {
+        "value": "Borussia M'Gladbach - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/68/borussia-m-gladbach",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_68.png"
+    },
+    {
+        "value": "Cagliari - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/154/cagliari",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_154.png"
+    },
+    {
+        "value": "Cambuur - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/166/cambuur",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_166.png"
+    },
+    {
+        "value": "Cardiff City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/1862/cardiff-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1862.png"
+    },
+    {
+        "value": "Catania - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/1636/catania",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1636.png"
+    },
+    {
+        "value": "Celta Vigo - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/128/celta-vigo",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_128.png"
+    },
+    {
+        "value": "Cercle Bruges - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/458/cercle-bruges",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_458.png"
+    },
+    {
+        "value": "Charleroi - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/106/charleroi",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_106.png"
+    },
+    {
+        "value": "Chelsea - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/80/chelsea",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_80.png"
+    },
+    {
+        "value": "Chievo Verone - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/482/chievo-verone",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_482.png"
+    },
+    {
+        "value": "Courtrai - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/112/courtrai",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_112.png"
+    },
+    {
+        "value": "Crystal Palace - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/720/crystal-palace",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_720.png"
+    },
+    {
+        "value": "Eintracht Brunswick - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/2844/eintracht-brunswick",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2844.png"
+    },
+    {
+        "value": "Elche - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/1807/elche",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1807.png"
+    },
+    {
+        "value": "Espanyol - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/129/espanyol",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_129.png"
+    },
+    {
+        "value": "Estoril - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/1702/estoril",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1702.png"
+    },
+    {
+        "value": "Everton - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/83/everton",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_83.png"
+    },
+    {
+        "value": "Evian Thonon Gaillard - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/1518/evian-thonon-gaillard",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1518.png"
+    },
+    {
+        "value": "FC Barcelone - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/131/fc-barcelone",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_131.png"
+    },
+    {
+        "value": "FC Bruges - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/114/fc-bruges",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_114.png"
+    },
+    {
+        "value": "FC Groningue - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/1457/fc-groningue",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1457.png"
+    },
+    {
+        "value": "FC Porto - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/187/fc-porto",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_187.png"
+    },
+    {
+        "value": "FC Séville - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/1133/fc-seville",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1133.png"
+    },
+    {
+        "value": "FC Twente - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/168/fc-twente",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_168.png"
+    },
+    {
+        "value": "Fc Utrecht - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/169/fc-utrecht",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_169.png"
+    },
+    {
+        "value": "Feyenoord - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/171/feyenoord",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_171.png"
+    },
+    {
+        "value": "Fiorentina - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/149/fiorentina",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_149.png"
+    },
+    {
+        "value": "Francfort - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/62/francfort",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_62.png"
+    },
+    {
+        "value": "Fulham - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/471/fulham",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_471.png"
+    },
+    {
+        "value": "G.A. Eagles - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/2963/g.a.-eagles",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2963.png"
+    },
+    {
+        "value": "Genk - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/108/genk",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_108.png"
+    },
+    {
+        "value": "Genoa - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/365/genoa",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_365.png"
+    },
+    {
+        "value": "Getafe - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/397/getafe",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_397.png"
+    },
+    {
+        "value": "Gil Vicente - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/306/gil-vicente",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_306.png"
+    },
+    {
+        "value": "Granada FC - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/1806/granada-fc",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1806.png"
+    },
+    {
+        "value": "Guingamp - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/205/guingamp",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_205.png"
+    },
+    {
+        "value": "Hambourg - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/66/hambourg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_66.png"
+    },
+    {
+        "value": "Hanovre - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/303/hanovre",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_303.png"
+    },
+    {
+        "value": "Hellas Verona - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/2849/hellas-verona",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2849.png"
+    },
+    {
+        "value": "Heracles Almelo - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/1456/heracles-almelo",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1456.png"
+    },
+    {
+        "value": "Hertha Berlin - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/64/hertha-berlin",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_64.png"
+    },
+    {
+        "value": "Hull City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/1318/hull-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1318.png"
+    },
+    {
+        "value": "Inter Milan - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/150/inter-milan",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_150.png"
+    },
+    {
+        "value": "Juventus Turin - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/151/juventus-turin",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_151.png"
+    },
+    {
+        "value": "La Gantoise - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/110/la-gantoise",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_110.png"
+    },
+    {
+        "value": "Lazio Rome - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/152/lazio-rome",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_152.png"
+    },
+    {
+        "value": "Levante - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/1397/levante",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1397.png"
+    },
+    {
+        "value": "Lierse - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/109/lierse",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_109.png"
+    },
+    {
+        "value": "Lille - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/267/lille",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_267.png"
+    },
+    {
+        "value": "Liverpool FC - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/86/liverpool-fc",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_86.png"
+    },
+    {
+        "value": "Livourne - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/1139/livourne",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1139.png"
+    },
+    {
+        "value": "Lokeren - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/107/lokeren",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_107.png"
+    },
+    {
+        "value": "Lorient - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/212/lorient",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_212.png"
+    },
+    {
+        "value": "Lyon - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/225/lyon",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_225.png"
+    },
+    {
+        "value": "Mainz - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/1143/mainz",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1143.png"
+    },
+    {
+        "value": "Malaga - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/366/malaga",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_366.png"
+    },
+    {
+        "value": "Malines - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/310/malines",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_310.png"
+    },
+    {
+        "value": "Manchester City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/777/manchester-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_777.png"
+    },
+    {
+        "value": "Manchester United - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/87/manchester-united",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_87.png"
+    },
+    {
+        "value": "Maritimo Funchal - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/191/maritimo-funchal",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_191.png"
+    },
+    {
+        "value": "Marseille - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/266/marseille",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_266.png"
+    },
+    {
+        "value": "Monaco - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/208/monaco",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_208.png"
+    },
+    {
+        "value": "Mons - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/1366/mons",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1366.png"
+    },
+    {
+        "value": "Montpellier - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/204/montpellier",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_204.png"
+    },
+    {
+        "value": "NAC Breda - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/173/nac-breda",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_173.png"
+    },
+    {
+        "value": "NEC Nimègue - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/174/nec-nimegue",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_174.png"
+    },
+    {
+        "value": "Nacional Madeira - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/1099/nacional-madeira",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1099.png"
+    },
+    {
+        "value": "Nantes - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/235/nantes",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_235.png"
+    },
+    {
+        "value": "Naples - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/362/naples",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_362.png"
+    },
+    {
+        "value": "Newcastle - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/89/newcastle",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_89.png"
+    },
+    {
+        "value": "Nice - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/245/nice",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_245.png"
+    },
+    {
+        "value": "Norwich City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/1142/norwich-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1142.png"
+    },
+    {
+        "value": "Nuremberg - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/63/nuremberg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_63.png"
+    },
+    {
+        "value": "OH Louvain - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/2427/oh-louvain",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2427.png"
+    },
+    {
+        "value": "Olhanense - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/2320/olhanense",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2320.png"
+    },
+    {
+        "value": "Osasuna - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/389/osasuna",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_389.png"
+    },
+    {
+        "value": "Ostende - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/97/ostende",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_97.png"
+    },
+    {
+        "value": "PSV Eindhoven - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/175/psv-eindhoven",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_175.png"
+    },
+    {
+        "value": "Paris SG - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/248/paris-sg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_248.png"
+    },
+    {
+        "value": "Parme - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/155/parme",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_155.png"
+    },
+    {
+        "value": "Paços Ferreira - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/838/pacos-ferreira",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_838.png"
+    },
+    {
+        "value": "RKC Waalwijk - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/176/rkc-waalwijk",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_176.png"
+    },
+    {
+        "value": "Rayo Vallecano - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/379/rayo-vallecano",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_379.png"
+    },
+    {
+        "value": "Real Madrid - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/136/real-madrid",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_136.png"
+    },
+    {
+        "value": "Real Sociedad - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/138/real-sociedad",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_138.png"
+    },
+    {
+        "value": "Reims - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/256/reims",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_256.png"
+    },
+    {
+        "value": "Rennes - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/236/rennes",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_236.png"
+    },
+    {
+        "value": "Rio Ave - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/192/rio-ave",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_192.png"
+    },
+    {
+        "value": "Roda JC - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/177/roda-jc",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_177.png"
+    },
+    {
+        "value": "SC Fribourg - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/71/sc-fribourg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_71.png"
+    },
+    {
+        "value": "SC Heerenveen - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/167/sc-heerenveen",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_167.png"
+    },
+    {
+        "value": "Saint-Etienne - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/263/saint-etienne",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_263.png"
+    },
+    {
+        "value": "Sampdoria Gênes - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/159/sampdoria-genes",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_159.png"
+    },
+    {
+        "value": "Sassuolo Calcio - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/2482/sassuolo-calcio",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2482.png"
+    },
+    {
+        "value": "Schalke 04 - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/72/schalke-04",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_72.png"
+    },
+    {
+        "value": "Sochaux - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/259/sochaux",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_259.png"
+    },
+    {
+        "value": "Southampton - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/92/southampton",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_92.png"
+    },
+    {
+        "value": "Sporting - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/195/sporting",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_195.png"
+    },
+    {
+        "value": "Sporting Braga - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/196/sporting-braga",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_196.png"
+    },
+    {
+        "value": "Standard - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/1332/standard",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1332.png"
+    },
+    {
+        "value": "Stoke City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/1826/stoke-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1826.png"
+    },
+    {
+        "value": "Sunderland - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/290/sunderland",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_290.png"
+    },
+    {
+        "value": "Swansea City - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/2640/swansea-city",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2640.png"
+    },
+    {
+        "value": "TSG Hoffenheim - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/1822/tsg-hoffenheim",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1822.png"
+    },
+    {
+        "value": "Torino - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/255/torino",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_255.png"
+    },
+    {
+        "value": "Tottenham - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/94/tottenham",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_94.png"
+    },
+    {
+        "value": "Toulouse - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/226/toulouse",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_226.png"
+    },
+    {
+        "value": "UD Almeria - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/1675/ud-almeria",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1675.png"
+    },
+    {
+        "value": "Udinese - Calcio",
+        "url": "http://www.rtbf.be/sport/foot-direct/calcio/equipe/160/udinese",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_160.png"
+    },
+    {
+        "value": "Valence CF - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/132/valence-cf",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_132.png"
+    },
+    {
+        "value": "Valenciennes - Ligue 1",
+        "url": "http://www.rtbf.be/sport/foot-direct/ligue-1/equipe/210/valenciennes",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_210.png"
+    },
+    {
+        "value": "Valladolid - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/143/valladolid",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_143.png"
+    },
+    {
+        "value": "VfB Stuttgart - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/73/vfb-stuttgart",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_73.png"
+    },
+    {
+        "value": "VfL Wolfsburg - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/76/vfl-wolfsburg",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_76.png"
+    },
+    {
+        "value": "Villarreal - Liga",
+        "url": "http://www.rtbf.be/sport/foot-direct/liga/equipe/144/villarreal",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_144.png"
+    },
+    {
+        "value": "Vitesse Arnhem - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/179/vitesse-arnhem",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_179.png"
+    },
+    {
+        "value": "Vitoria Guimaraes - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/189/vitoria-guimaraes",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_189.png"
+    },
+    {
+        "value": "Vitoria Setubal - SuperLiga",
+        "url": "http://www.rtbf.be/sport/foot-direct/superliga/equipe/198/vitoria-setubal",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_198.png"
+    },
+    {
+        "value": "Waasland-Beveren - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/2614/waasland-beveren",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2614.png"
+    },
+    {
+        "value": "Werder Brême - Bundesliga",
+        "url": "http://www.rtbf.be/sport/foot-direct/bundesliga/equipe/75/werder-breme",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_75.png"
+    },
+    {
+        "value": "West Bromwich - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/1091/west-bromwich",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1091.png"
+    },
+    {
+        "value": "West Ham Utd - Premier League",
+        "url": "http://www.rtbf.be/sport/foot-direct/premier-league/equipe/95/west-ham-utd",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_95.png"
+    },
+    {
+        "value": "Zulte-Waregem - Jupiler Pro League",
+        "url": "http://www.rtbf.be/sport/foot-direct/jupiler-pro-league/equipe/1406/zulte-waregem",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_1406.png"
+    },
+    {
+        "value": "Zwolle - Eredivisie",
+        "url": "http://www.rtbf.be/sport/foot-direct/eredivisie/equipe/2945/zwolle",
+        "image": "http://rtbf.customers.i-dalgo2.com/imedia/picture/sport/football/team/logo/20x20/logo_club_2945.png"
+    }
+]
